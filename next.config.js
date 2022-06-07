@@ -1,3 +1,13 @@
+// export const reactStrictMode = true;
+// export const images = {
+//   domains: [
+//     "unsplash.com",
+//     "images.unsplash.com"
+//   ],
+// };
+
 module.exports = {
-  reactStrictMode: true,
+  images: {
+    domains: ['https://firebasestorage.googleapis.com'],
+  },
 }

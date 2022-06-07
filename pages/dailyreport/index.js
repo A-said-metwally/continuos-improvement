@@ -155,7 +155,7 @@ const CahrtOptions = {
         setUniformity([...UniformityData])
 
 
-        })
+        },[])
 
   // if(!Validation) return <Login/>
 
